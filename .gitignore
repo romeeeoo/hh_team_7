@@ -1,0 +1,9 @@
+__pycache__
+.idea
+*.sqlite
+*.sqlite3
+uploads
+venv
+.venv
+env
+.ven
