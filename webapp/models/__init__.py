@@ -1,1 +1,1 @@
-from .caterogy import Category
+from .category import Category
